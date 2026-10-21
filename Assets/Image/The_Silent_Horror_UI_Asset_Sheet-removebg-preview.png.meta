@@ -1,0 +1,416 @@
+fileFormatVersion: 2
+guid: 24cb633894797f2459895fa998451121
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: The_Silent_Horror_UI_Asset_Sheet-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 209
+        width: 338
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f76cfdfe468e3a4db9b2e72f8e2bbda
+      internalID: 571954853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Silent_Horror_UI_Asset_Sheet-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 274
+        width: 191
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59919b92f065775419d46122d4e66be6
+      internalID: -1192885530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Silent_Horror_UI_Asset_Sheet-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 305
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebbc132334700c440b075ec0e792bc93
+      internalID: -679235421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Silent_Horror_UI_Asset_Sheet-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 227
+        width: 164
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd676021a7964b49841709f43d9afc9
+      internalID: -1961460323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Silent_Horror_UI_Asset_Sheet-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 91
+        width: 256
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 639b42b60a9c2664db8c35ae7ace96e7
+      internalID: -1666560296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Silent_Horror_UI_Asset_Sheet-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 186
+        width: 159
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3586a8ef823f3984cadb6e7a310ef6d9
+      internalID: -1439209056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Silent_Horror_UI_Asset_Sheet-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 118
+        width: 123
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb837a1067ce39b428baf8987dc4ddb1
+      internalID: 1362049597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Silent_Horror_UI_Asset_Sheet-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 137
+        width: 159
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966018550db69da4e8ad47e4370e7149
+      internalID: 73983728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Silent_Horror_UI_Asset_Sheet-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 88
+        width: 158
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae363aaec1892c4c9545fe92fd97305
+      internalID: -1244158419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Silent_Horror_UI_Asset_Sheet-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 33
+        width: 149
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc73c434146d5c41aaa46d38e118b67
+      internalID: -1959210945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Silent_Horror_UI_Asset_Sheet-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 29
+        width: 114
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be097820948099419aecffd060f698f
+      internalID: -462955102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The_Silent_Horror_UI_Asset_Sheet-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 24
+        width: 57
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1045ca36b6c45245bbc57c74670cc54
+      internalID: -1476857371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 0571665aca5ecb1499719135a7091f9e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      The_Silent_Horror_UI_Asset_Sheet-removebg-preview_0: 571954853
+      The_Silent_Horror_UI_Asset_Sheet-removebg-preview_1: -1192885530
+      The_Silent_Horror_UI_Asset_Sheet-removebg-preview_10: 73983728
+      The_Silent_Horror_UI_Asset_Sheet-removebg-preview_11: 1965020914
+      The_Silent_Horror_UI_Asset_Sheet-removebg-preview_12: -1337897235
+      The_Silent_Horror_UI_Asset_Sheet-removebg-preview_13: -1244158419
+      The_Silent_Horror_UI_Asset_Sheet-removebg-preview_14: 1823204083
+      The_Silent_Horror_UI_Asset_Sheet-removebg-preview_15: -593101283
+      The_Silent_Horror_UI_Asset_Sheet-removebg-preview_16: -1959210945
+      The_Silent_Horror_UI_Asset_Sheet-removebg-preview_17: -666438346
+      The_Silent_Horror_UI_Asset_Sheet-removebg-preview_18: -462955102
+      The_Silent_Horror_UI_Asset_Sheet-removebg-preview_19: -1476857371
+      The_Silent_Horror_UI_Asset_Sheet-removebg-preview_2: 729654777
+      The_Silent_Horror_UI_Asset_Sheet-removebg-preview_20: 357690382
+      The_Silent_Horror_UI_Asset_Sheet-removebg-preview_21: -657713981
+      The_Silent_Horror_UI_Asset_Sheet-removebg-preview_22: 1914502573
+      The_Silent_Horror_UI_Asset_Sheet-removebg-preview_23: -1538955105
+      The_Silent_Horror_UI_Asset_Sheet-removebg-preview_3: -679235421
+      The_Silent_Horror_UI_Asset_Sheet-removebg-preview_4: -1961460323
+      The_Silent_Horror_UI_Asset_Sheet-removebg-preview_5: 1810920333
+      The_Silent_Horror_UI_Asset_Sheet-removebg-preview_6: -1666560296
+      The_Silent_Horror_UI_Asset_Sheet-removebg-preview_7: -1439209056
+      The_Silent_Horror_UI_Asset_Sheet-removebg-preview_8: 1362049597
+      The_Silent_Horror_UI_Asset_Sheet-removebg-preview_9: 1332211395
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

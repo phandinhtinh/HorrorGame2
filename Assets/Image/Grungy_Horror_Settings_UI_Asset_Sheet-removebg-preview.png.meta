@@ -1,0 +1,580 @@
+fileFormatVersion: 2
+guid: a8abae4b1a4696a42a362164c14a495c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Grungy_Horror_Settings_UI_Asset_Sheet-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 299
+        width: 178
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9bada3de8dce5e46bf86ed615251a4e
+      internalID: -1788003256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grungy_Horror_Settings_UI_Asset_Sheet-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 200
+        width: 351
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7fcddc1632918142a7de223381fc3cf
+      internalID: -244418093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grungy_Horror_Settings_UI_Asset_Sheet-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 295
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34261a975432b1941b04076808963da5
+      internalID: 1418264847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grungy_Horror_Settings_UI_Asset_Sheet-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 253
+        width: 141
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de29f52fe80015d4188fd23ae35be72a
+      internalID: 416916396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grungy_Horror_Settings_UI_Asset_Sheet-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 212
+        width: 129
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf67e71bdeab9443be1d78c07ef82de
+      internalID: -1738935307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grungy_Horror_Settings_UI_Asset_Sheet-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 172
+        width: 135
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dda7aa97ebceee429798be1f452c0ee
+      internalID: 1211095791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grungy_Horror_Settings_UI_Asset_Sheet-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 164
+        width: 112
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c8e200c8eca8345b576291c2bfa96f
+      internalID: -1868589684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grungy_Horror_Settings_UI_Asset_Sheet-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 164
+        width: 254
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d04489bffb42af489f1ea4de242f486
+      internalID: -1339580962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grungy_Horror_Settings_UI_Asset_Sheet-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 161
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14d002aee032b34890c592cc8525c51
+      internalID: 1810338497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grungy_Horror_Settings_UI_Asset_Sheet-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 131
+        width: 136
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64865795dcfd0e749b764cd79c484f3d
+      internalID: -1526461937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grungy_Horror_Settings_UI_Asset_Sheet-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 131
+        width: 109
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d6135639cc57d40ba44fd534c864e6
+      internalID: 581963882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grungy_Horror_Settings_UI_Asset_Sheet-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 131
+        width: 246
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 225dd954f84f481418f994bdf792de5f
+      internalID: -173160049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grungy_Horror_Settings_UI_Asset_Sheet-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 90
+        width: 129
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3af9a68719a83842b1a2bccc9a31937
+      internalID: 760307093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grungy_Horror_Settings_UI_Asset_Sheet-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 101
+        width: 110
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4808332d53d00e4fa644b15b9f2dcc5
+      internalID: -1925407596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grungy_Horror_Settings_UI_Asset_Sheet-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 101
+        width: 245
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6c3a313ebfb1e459a27e61504c38ca
+      internalID: -964179023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grungy_Horror_Settings_UI_Asset_Sheet-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 74
+        width: 109
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d6eb9a8220e8347bd459843459f96f
+      internalID: -1489108383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grungy_Horror_Settings_UI_Asset_Sheet-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 76
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec0ea47987786a478a5276b0ff80d5c
+      internalID: -447423821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grungy_Horror_Settings_UI_Asset_Sheet-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 46
+        width: 111
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9539cea00d4a30f4286df1311a4d7633
+      internalID: 569308310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grungy_Horror_Settings_UI_Asset_Sheet-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 48
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 477a37e014c3da046a0f7a4b5c6df654
+      internalID: -682793506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grungy_Horror_Settings_UI_Asset_Sheet-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 11
+        width: 121
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ba4a1ed6eae4642b7bd723c515d78f
+      internalID: -1387194348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c1ef20136dab27646a7a2485f4a9ac90
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Grungy_Horror_Settings_UI_Asset_Sheet-removebg-preview_0: -1788003256
+      Grungy_Horror_Settings_UI_Asset_Sheet-removebg-preview_1: -244418093
+      Grungy_Horror_Settings_UI_Asset_Sheet-removebg-preview_10: 581963882
+      Grungy_Horror_Settings_UI_Asset_Sheet-removebg-preview_11: -173160049
+      Grungy_Horror_Settings_UI_Asset_Sheet-removebg-preview_12: 760307093
+      Grungy_Horror_Settings_UI_Asset_Sheet-removebg-preview_13: -1925407596
+      Grungy_Horror_Settings_UI_Asset_Sheet-removebg-preview_14: -964179023
+      Grungy_Horror_Settings_UI_Asset_Sheet-removebg-preview_15: -1489108383
+      Grungy_Horror_Settings_UI_Asset_Sheet-removebg-preview_16: -447423821
+      Grungy_Horror_Settings_UI_Asset_Sheet-removebg-preview_17: 569308310
+      Grungy_Horror_Settings_UI_Asset_Sheet-removebg-preview_18: -682793506
+      Grungy_Horror_Settings_UI_Asset_Sheet-removebg-preview_19: -1387194348
+      Grungy_Horror_Settings_UI_Asset_Sheet-removebg-preview_2: 1418264847
+      Grungy_Horror_Settings_UI_Asset_Sheet-removebg-preview_3: 416916396
+      Grungy_Horror_Settings_UI_Asset_Sheet-removebg-preview_4: -1738935307
+      Grungy_Horror_Settings_UI_Asset_Sheet-removebg-preview_5: 1211095791
+      Grungy_Horror_Settings_UI_Asset_Sheet-removebg-preview_6: -1868589684
+      Grungy_Horror_Settings_UI_Asset_Sheet-removebg-preview_7: -1339580962
+      Grungy_Horror_Settings_UI_Asset_Sheet-removebg-preview_8: 1810338497
+      Grungy_Horror_Settings_UI_Asset_Sheet-removebg-preview_9: -1526461937
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

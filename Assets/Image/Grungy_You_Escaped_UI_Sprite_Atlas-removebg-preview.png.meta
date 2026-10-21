@@ -1,0 +1,421 @@
+fileFormatVersion: 2
+guid: 12f7fff49c5838c4fba5da0560cdd368
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Grungy_You_Escaped_UI_Sprite_Atlas-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 314
+        width: 207
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d133e117b118748a01a83d62d28401
+      internalID: 618380224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grungy_You_Escaped_UI_Sprite_Atlas-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 275
+        width: 293
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433261892fe9685498e6f29405ead448
+      internalID: 1124532027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grungy_You_Escaped_UI_Sprite_Atlas-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 318
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c1cbaaa0b2bcb428575bb4aa78a802
+      internalID: -235442757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grungy_You_Escaped_UI_Sprite_Atlas-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 260
+        width: 194
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b629ef5293db29144bf17a60288b51b5
+      internalID: -109060384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grungy_You_Escaped_UI_Sprite_Atlas-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 222
+        width: 193
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4226e7716e63a9409bb446581ec2035
+      internalID: 2103408634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grungy_You_Escaped_UI_Sprite_Atlas-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 204
+        width: 169
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec1a46d91286054ebd3de1797d5b1c9
+      internalID: -1758235414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grungy_You_Escaped_UI_Sprite_Atlas-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 204
+        width: 168
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f506738e42840dc44b5ed9309fac7934
+      internalID: 1366606154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grungy_You_Escaped_UI_Sprite_Atlas-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 180
+        width: 195
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dabe0f1093b0f2147882a4fa6e53cc00
+      internalID: -1154223187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grungy_You_Escaped_UI_Sprite_Atlas-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 28
+        width: 317
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b520cf7de41f194d9dfdd1f7399d679
+      internalID: 923839807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grungy_You_Escaped_UI_Sprite_Atlas-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 129
+        width: 211
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b91fc30f38b02054daa5bea59ba2b104
+      internalID: -1076353100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grungy_You_Escaped_UI_Sprite_Atlas-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 98
+        width: 157
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f752e5432654268449fd92df59220c9b
+      internalID: 291415712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grungy_You_Escaped_UI_Sprite_Atlas-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 35
+        width: 83
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9009e2d5865e71345b57d171f3bad26a
+      internalID: -808466077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 7d77d44a5b485e244bade049bcaa1141
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Grungy_You_Escaped_UI_Sprite_Atlas-removebg-preview_0: 618380224
+      Grungy_You_Escaped_UI_Sprite_Atlas-removebg-preview_1: 1124532027
+      Grungy_You_Escaped_UI_Sprite_Atlas-removebg-preview_10: 1366606154
+      Grungy_You_Escaped_UI_Sprite_Atlas-removebg-preview_11: -1154223187
+      Grungy_You_Escaped_UI_Sprite_Atlas-removebg-preview_12: 1054866179
+      Grungy_You_Escaped_UI_Sprite_Atlas-removebg-preview_13: -2129924571
+      Grungy_You_Escaped_UI_Sprite_Atlas-removebg-preview_14: 1956937243
+      Grungy_You_Escaped_UI_Sprite_Atlas-removebg-preview_15: 923839807
+      Grungy_You_Escaped_UI_Sprite_Atlas-removebg-preview_16: -1076353100
+      Grungy_You_Escaped_UI_Sprite_Atlas-removebg-preview_17: -1260066171
+      Grungy_You_Escaped_UI_Sprite_Atlas-removebg-preview_18: -969082973
+      Grungy_You_Escaped_UI_Sprite_Atlas-removebg-preview_19: -1202345997
+      Grungy_You_Escaped_UI_Sprite_Atlas-removebg-preview_2: -235442757
+      Grungy_You_Escaped_UI_Sprite_Atlas-removebg-preview_20: 2138928388
+      Grungy_You_Escaped_UI_Sprite_Atlas-removebg-preview_21: 291415712
+      Grungy_You_Escaped_UI_Sprite_Atlas-removebg-preview_22: 446013190
+      Grungy_You_Escaped_UI_Sprite_Atlas-removebg-preview_23: 162075530
+      Grungy_You_Escaped_UI_Sprite_Atlas-removebg-preview_24: -808466077
+      Grungy_You_Escaped_UI_Sprite_Atlas-removebg-preview_25: 1492508816
+      Grungy_You_Escaped_UI_Sprite_Atlas-removebg-preview_26: 1056351253
+      Grungy_You_Escaped_UI_Sprite_Atlas-removebg-preview_27: -1215989828
+      Grungy_You_Escaped_UI_Sprite_Atlas-removebg-preview_28: 1521720970
+      Grungy_You_Escaped_UI_Sprite_Atlas-removebg-preview_3: -109060384
+      Grungy_You_Escaped_UI_Sprite_Atlas-removebg-preview_4: -517245907
+      Grungy_You_Escaped_UI_Sprite_Atlas-removebg-preview_5: 417991255
+      Grungy_You_Escaped_UI_Sprite_Atlas-removebg-preview_6: 1889075191
+      Grungy_You_Escaped_UI_Sprite_Atlas-removebg-preview_7: 676388666
+      Grungy_You_Escaped_UI_Sprite_Atlas-removebg-preview_8: 2103408634
+      Grungy_You_Escaped_UI_Sprite_Atlas-removebg-preview_9: -1758235414
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
